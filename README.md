@@ -132,5 +132,18 @@ Your resume should include:
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
+**Technologies Used**
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+
+**License**
+* ![MIT license](license.txt)
+
+**Contact Me**
+* Email: joechoe125@gmail.com
+* Github: https://github.com/jchoe125
+* LinkedIn: https://www.linkedin.com/in/joe-choe-a97b52237/
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
