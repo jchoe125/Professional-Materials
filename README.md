@@ -1,6 +1,6 @@
 # 08 Project 1: Professional Materials
 
-**Objectives**
+## Objectives
 
 Providing an updated portfolio page in order to build toward being employer-competitive.
 
@@ -9,7 +9,6 @@ Providing an updated portfolio page in order to build toward being employer-comp
 * Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
 * Updated resume
 * Updated LinkedIn profile
-
 
 ## Instructions
 
@@ -22,8 +21,6 @@ Providing an updated portfolio page in order to build toward being employer-comp
 4. [Updated LinkedIn](#updated-linkedin)
 
 ## Updated Portfolio
-
-💁 Need help updating your Portfolio? Check out the [career services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
 
 Your updated portfolio should:
 
@@ -46,16 +43,16 @@ Your updated portfolio should:
 5. Have a polished, mobile-responsive user interface.
 
 6. Design
-* Mobile-first design
-* Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+   * Mobile-first design
+   * Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
+   * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
 
 ## Updated GitHub Profile 
 
 Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
 
-Your GitHub profile must contain at least the following items:
+The GitHub profile must contain at least the following items:
 
 1. Profile picture or avatar
 
@@ -104,14 +101,15 @@ Resume should include:
 LinkedIn profile should contain a strong bio statement, a professional photo, and links to my Github and portfolio.
 
 
-------------------------------
-
-CSS Framework: Bootstrap
-Bootstrap Depends on JQuery and JavaScript so these are also implimented on this site.
-The applications included in my portfolio utilize some or all of the following in addition to those listed above:
-
 **License**
-* ![MIT license](license.txt)
+* [license](https://github.com/jchoe125/Professional-Materials/blob/main/licenseMITtxt)
+
+**Technologies Used**
+* HTML, CSS, JavaScript, Bootstrap
+
+**Screenshots**
+![screenshot1](./Images/Screenshot1.JPG)
+![screenshot2](./Images/Screenshot2.JPG)
 
 **Contact Me**
 * Email: joechoe125@gmail.com
