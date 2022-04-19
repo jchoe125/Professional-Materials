@@ -100,14 +100,10 @@ Resume should include:
 
 LinkedIn profile should contain a strong bio statement, a professional photo, and links to my Github and portfolio.
 
-
-**License**
-* [license](https://github.com/jchoe125/Professional-Materials/blob/main/licenseMITtxt)
-
 **Technologies Used**
 * HTML, CSS, JavaScript, Bootstrap
-
-**Screenshots**
+  
+* **Screenshots**
 ![screenshot1](./Images/Screenshot1.JPG)
 ![screenshot2](./Images/Screenshot2.JPG)
 
@@ -115,5 +111,6 @@ LinkedIn profile should contain a strong bio statement, a professional photo, an
 * Email: joechoe125@gmail.com
 * Github: https://github.com/jchoe125
 * LinkedIn: https://www.linkedin.com/in/joe-choe-a97b52237/
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+**License**
+* [license](https://github.com/jchoe125/Professional-Materials/blob/main/licenseMITtxt)
