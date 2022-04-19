@@ -116,7 +116,6 @@ LinkedIn profile should contain a strong bio statement, a professional photo, an
 * Github: https://github.com/jchoe125
 * LinkedIn: https://www.linkedin.com/in/joe-choe-a97b52237/
 
-
 **License**
 * [License](https://github.com/jchoe125/Professional-Materials/blob/main/licenseMITtxt)
 
