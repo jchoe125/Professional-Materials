@@ -18,25 +18,13 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg fixed-top navbarScroll">
         <div class="container">
-            <a class="navbar-brand" href="#"><strong>Joe Choe</strong>></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav ms-auto" id="navbar">
-                    <li class="nav-item main">
-                        <a class="navBarHome" href="#home">Home </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="navBarBio" href="#bio">Bio </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="navBarPortfolio" href="#portfolio">Portfolio </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="navBarContact" href="#contact">Contact </a>
-                    </li>
-                </ul>
+                <nav class="navbar-nav ms-auto" id="navbar">
+                    <a href="#header">Home</a>
+                    <a href="#bio">Bio</a>
+                    <a href="#portfolio">Portfolio</a>
+                    <a href="#contact-me">Contact</a>
+                </nav>
             </div>
         </div>
     </nav>
@@ -56,12 +44,13 @@
     <!-- about section-->
     <section class="aboutBackgroundImg" id="about">
         <div class="container mt-4 pt-4">
-            <h1 class="aboutMeHeader"><strong>About Me</strong></h1>
+            <h1 class="aboutMeHeader"><strong>Joe Choe</strong></h1>
             <div class="row mt-4">
                 <div class="col-lg-4">
                     <img src="./Images/avatar.jpg" class="aboutImg" alt="avatar">
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-8" id="bio">
+                    <h4><strong>About Me</strong></h4>
                     <p> I am currently a student enrolled in a web development program in hopes of pursuing a career in the finance/tech industry. Prior to embarking on this journey, I was working on covid vaccine clinical trials research at Kaiser Permanente
                         Research Institute
                     </p>
@@ -72,13 +61,13 @@
     <!-- portfolio section-->
     <section id="portfolio">
         <div class="container">
-            <h1 class="text-center"><strong>Portfolio</strong></h1>
+            <h1 class="text-left"><strong>Portfolio</strong></h1>
             <div class="row">
                 <div class="col-lg-4 mt-4">
                     <div class="card portfolioText">
-                        <img class="card-img-top" src="./Images/WikiLeeks Screenshot.JPG" alt="screenshot" style="width:100%">
                         <div class="card-body">
                             <h4 class="card-title mt-3"><strong>WikiLeeks Recipe Generator</strong></h4>
+                            <img class="card-img-top" src="./Images/WikiLeeks Screenshot.JPG" alt="screenshot" style="width:100%">
                             <p class="card-text mt-3">Recipe generator application that curates recipes based on the user's desired dietary preferences
                             </p>
                             <div class="text-center">
@@ -91,8 +80,8 @@
                 <div class="col-lg-4 mt-4">
                     <div class="card portfolioText">
                         <div class="card-body">
-                            <img class="card-img-top" src="./Images/PasswordGenerator Screenshot.JPG" alt="screenshot" style="width:100%">
                             <h4 class="card-title mt-3"><strong>Password Generator</strong></h4>
+                            <img class="card-img-top" src="./Images/PasswordGenerator Screenshot.JPG" alt="screenshot" style="width:100%">
                             <p class="card-text mt-3">Random, secure password generator that is able to create a password based on a set of selected criteria
                             </p>
                             <div class="text-center">
@@ -105,8 +94,8 @@
                 <div class="col-lg-4 mt-4">
                     <div class="card portfolioText">
                         <div class="card-body">
-                            <img class="card-img-top" src="./Images/Portfolio Screenshot.JPG" alt="screenshot" style="width:100%">
                             <h4 class="card-title mt-3"><strong>Advanced CSS Portfolio</strong></h4>
+                            <img class="card-img-top" src="./Images/Portfolio Screenshot.JPG" alt="screenshot" style="width:100%">
                             <p class="card-text mt-3">First CSS-based project that utilized foundational CSS concepts to create a portfolio web application
                             </p>
                             <div class="text-center">
@@ -121,13 +110,15 @@
 
     <!-- contact me section -->
     <footer id="contact-me">
-        <h2><strong>Contact Me</strong></h2>
-        <nav>
-            <a href="mailto:joechoe125@gmail.com" target="_blank">Email</a>
-            <a href="https://github.com/jchoe125" target="_blank">Github</a>
-            <a href="https://www.linkedin.com/in/joe-choe-a97b52237/" target="_blank">LinkedIn</a>
-            <a href="https://files.catbox.moe/c6ciwk.pdf" target="_blank">Resume</a>
-        </nav>
+        <div class="container-fluid">
+            <h2 class="text-left"><strong>Contact Me</strong></h2>
+            <nav>
+                <a href="mailto:joechoe125@gmail.com" target="_blank">Email</a>
+                <a href="https://github.com/jchoe125" target="_blank">Github</a>
+                <a href="https://www.linkedin.com/in/joe-choe-a97b52237/" target="_blank">LinkedIn</a>
+                <a href="https://files.catbox.moe/c6ciwk.pdf" target="_blank">Resume</a>
+            </nav>
+        </div>
     </footer>
 
 </body>
