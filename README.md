@@ -1,27 +1,15 @@
 # 08 Project 1: Professional Materials
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
+**Objectives**
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
+Providing an updated portfolio page in order to build toward being employer-competitive.
 
-## Homework Requirements
-
+## Requirements
 * Updated portfolio featuring Project 1 and two exemplary homework assignments.
-
 * Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
-
 * Updated resume
-
 * Updated LinkedIn profile
 
-## Grading
-
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portfolio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
 
 ## Instructions
 
@@ -39,13 +27,13 @@ If you are opting out of career services, this is *still a required assignment*.
 
 Your updated portfolio should:
 
-1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
+1. Display contact info, including email or phone number
 
-2. Have links to your GitHub profile and LinkedIn profile
+2. Have links to my GitHub profile and LinkedIn profile
 
-3. Have a link to a downloadable PDF of your resume
+3. Have a link to a downloadable PDF of my resume
 
-4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
+4. Display at least 2 examples of student work from either deployed projects or homeworks. Each project should include the following:
 
 	* Project title
 
@@ -57,16 +45,11 @@ Your updated portfolio should:
 
 5. Have a polished, mobile-responsive user interface.
 
-### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
+6. Design
 * Mobile-first design
-
 * Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
-
 * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+
 
 ## Updated GitHub Profile 
 
@@ -84,13 +67,7 @@ Your GitHub profile must contain at least the following items:
 
 4. Link to your deployed portfolio
 
-5. At least 2 pinned repositories:
-
-	* Navigate to [GitHub](https://github.com/) and go to your profile.
-
-	* Click "Customize your pins"
-
-	* Click the checkboxes for your project and 2-3 homework assignments that you would like to share
+5. At least 2 pinned repositories
 
 6. Follow a few of your classmates and/or other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
 
@@ -114,29 +91,24 @@ Your GitHub profile must contain at least the following items:
 
 ## Updated Resume 
 
-💁 Need help building a resume? Check out the [career services milestone resources](https://mycareerspot.org/resume).
+Resume should include:
 
-Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
-
-Your resume should include:
-
-* a heading with your name, phone number, professional email address, links to LinkedIn, portfolio and GitHub. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
+* a heading with my name, phone number, professional email address, links to LinkedIn, portfolio and GitHub
 
 * a technical skills section, with all programming languages and technologies listed
 
-* 3 of your strongest projects/homework assignments with brief description, languages used, and URL
+* 3 projects/homework assignments with brief description, languages used, and URLs
 
 ## Updated LinkedIn
 
-💁 Need help updating your LinkedIn? Check out the [career services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
+LinkedIn profile should contain a strong bio statement, a professional photo, and links to my Github and portfolio.
 
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
-**Technologies Used**
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
+------------------------------
+
+CSS Framework: Bootstrap
+Bootstrap Depends on JQuery and JavaScript so these are also implimented on this site.
+The applications included in my portfolio utilize some or all of the following in addition to those listed above:
 
 **License**
 * ![MIT license](license.txt)
