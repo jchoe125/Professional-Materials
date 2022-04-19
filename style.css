@@ -17,7 +17,7 @@ a {
 }
 
 body {
-    background-color: pink transparent;
+    background-image: linear-gradient(to right, white, rgb(196, 164, 201));
 }
 
 .aboutBackgroundImg {
@@ -32,6 +32,11 @@ body {
     gap: 30px;
     display: inline-block;
     font-size: 1.5rem;
+}
+
+#avatar {
+    border-radius: 55px;
+    border: solid;
 }
 
 .headerIntro {
