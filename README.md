@@ -105,10 +105,18 @@ LinkedIn profile should contain a strong bio statement, a professional photo, an
 ![screenshot1](./Images/Screenshot1.JPG)
 ![screenshot2](./Images/Screenshot2.JPG)
 
+**Submission**
+* The URL of the deployed application.
+  * URL of deployed application: https://jchoe125.github.io/Professional-Materials/
+* The URL of the GitHub repository, with a unique name and a README that describes the project
+  * URL to GitHub repository: https://github.com/jchoe125/Professional-Materials
+
 **Contact Me**
 * Email: joechoe125@gmail.com
 * Github: https://github.com/jchoe125
 * LinkedIn: https://www.linkedin.com/in/joe-choe-a97b52237/
 
+
 **License**
 * [License](https://github.com/jchoe125/Professional-Materials/blob/main/licenseMITtxt)
+
