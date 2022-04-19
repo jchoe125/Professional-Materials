@@ -22,7 +22,7 @@ Providing an updated portfolio page in order to build toward being employer-comp
 
 ## Updated Portfolio
 
-Your updated portfolio should:
+My updated portfolio should:
 
 1. Display contact info, including email or phone number
 
@@ -44,13 +44,11 @@ Your updated portfolio should:
 
 6. Design
    * Mobile-first design
-   * Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
-   * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+   * Choosing a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
+   * Making sure the font size is large enough to read, and that the colors don't cause eye strain.
 
 
 ## Updated GitHub Profile 
-
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
 
 The GitHub profile must contain at least the following items:
 
@@ -62,11 +60,11 @@ The GitHub profile must contain at least the following items:
 
 3. Email address. If you don't want to share your personal email or phone number, use a developer email.
 
-4. Link to your deployed portfolio
+4. Link to deployed portfolio
 
 5. At least 2 pinned repositories
 
-6. Follow a few of your classmates and/or other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
+6. Following a few of my classmates and/or other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
 
 7. README files. Every pinned project should contain a README file with:
 
